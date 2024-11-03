@@ -20,7 +20,8 @@ const bokmalTilNynorskMap = {
     'vise': 'syne',
     'skole': 'skule',
     'foreløpig': 'mellombels',
-    'ansatt': 'tilsatt'
+    'ansatt': 'tilsatt',
+    'beskrivelse': 'skildring'
 }
 
 module.exports = {

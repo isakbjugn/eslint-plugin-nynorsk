@@ -15,7 +15,7 @@ function translateCasePreserving(originalTerm, translationTerm) {
 
 module.exports = {
     rules: {
-        'no-bokmal': {
+        'ikkje-bokmal': {
             meta: {
                 type: 'suggestion',
                 docs: {
