@@ -1,2 +1,2 @@
 # eslint-plugin-nynorsk
-ESLint-utvidelse for å lette arbeidet med nynorsk-oversettelser med i18next
+ESLint-utviding for å lette arbeidet med nynorsk-omsetjingar med i18next
