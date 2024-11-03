@@ -1,6 +1,8 @@
 # eslint-plugin-nynorsk
 ESLint-utviding for å lette arbeidet med nynorsk-omsetjingar med i18next
 
+> Utvidinga er framleis under utvikling!
+
 ## Installasjon
 ```sh
 # Køyr frå prosjektmappa di

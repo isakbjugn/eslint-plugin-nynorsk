@@ -1,6 +1,6 @@
 {
   "name": "@fagord/eslint-plugin-nynorsk",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "ESLint-utviding for å lette arbeidet med nynorsk-omsetjingar med i18next",
   "main": "src/index.js",
   "scripts": {
